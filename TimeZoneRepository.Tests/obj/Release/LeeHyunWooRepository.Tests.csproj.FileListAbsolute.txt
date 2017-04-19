@@ -1,0 +1,16 @@
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\LeeHyunWooRepository.Tests.dll.config
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\LeeHyunWooRepository.Tests.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\LeeHyunWooRepository.Tests.pdb
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\EntityFramework.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\LeeHyunWooRepository.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\Ninject.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\LeeHyunWooRepository.pdb
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\EntityFramework.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\Ninject.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\bin\Release\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\obj\Release\LeeHyunWooRepository.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\obj\Release\LeeHyunWooRepository.Tests.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository.Tests\obj\Release\LeeHyunWooRepository.Tests.pdb

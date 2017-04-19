@@ -1,0 +1,16 @@
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\obj\Debug\TimeZoneRepository.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\TimeZoneRepository.Tests.dll.config
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\TimeZoneRepository.Tests.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\TimeZoneRepository.Tests.pdb
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\Ninject.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\TimeZoneRepository.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\TimeZoneRepository.pdb
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\EntityFramework.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\Ninject.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\bin\Debug\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\obj\Debug\TimeZoneRepository.Tests.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository.Tests\obj\Debug\TimeZoneRepository.Tests.pdb
