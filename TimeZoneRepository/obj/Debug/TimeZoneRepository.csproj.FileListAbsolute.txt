@@ -1,0 +1,11 @@
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\TimeZoneRepository.dll.config
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\TimeZoneRepository.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\TimeZoneRepository.pdb
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\EntityFramework.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\Ninject.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\EntityFramework.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\bin\Debug\Ninject.xml
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\obj\Debug\TimeZoneRepository.dll
+C:\Projects\Sample\LeeHyunWooRepository\TimeZoneRepository\obj\Debug\TimeZoneRepository.pdb

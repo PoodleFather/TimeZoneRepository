@@ -1,0 +1,12 @@
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\LeeHyunWooRepository.dll.config
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\LeeHyunWooRepository.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\LeeHyunWooRepository.pdb
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\EntityFramework.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\Ninject.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\EntityFramework.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\bin\Release\Ninject.xml
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\obj\Release\LeeHyunWooRepository.dll
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\obj\Release\LeeHyunWooRepository.pdb
+C:\Projects\LeeHyunWooRepository\LeeHyunWooRepository\obj\Release\LeeHyunWooRepository.csprojResolveAssemblyReference.cache
